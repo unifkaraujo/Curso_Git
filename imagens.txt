@@ -3,3 +3,5 @@ Alteração do componente de imagens
 Modificação 1 Imagens
 
 stash ?
+
+outra info em imagens
