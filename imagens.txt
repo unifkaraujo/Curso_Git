@@ -1,1 +1,3 @@
 Alteração do componente de imagens
+
+Novas alterações em imagens
